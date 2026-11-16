@@ -1,5 +1,7 @@
 # Avitech-Led
 
+![Avitech-Led 3D Preview](preview_3d.png)
+
 Mạch LED Driver/Indicator nhỏ gọn được thiết kế bằng **KiCad**. Dự án đã được đóng gói thư viện cục bộ (Self-contained / Portable), có thể mở và xem mô hình 3D trên bất kỳ máy tính nào mà không lo thiếu thư viện hay lỗi missing footprint/symbol/3D model.
 
 ## 📌 Thông số & Cấu trúc phần cứng
