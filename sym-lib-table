@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "Avitech-Led") (type "KiCad") (uri "${KIPRJMOD}/libs/Avitech-Led.kicad_sym") (options "") (descr "Local symbol library for Avitech-Led"))
+)

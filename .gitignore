@@ -1,0 +1,17 @@
+# KiCad local and temporary files
+*.kicad_prl
+*.lck
+*-save.kicad_*
+*.bak
+*.kicad_pcb-bak
+*.kicad_sch-bak
+_autosave-*
+fp-info-cache
+.history/
+
+# Output directories and gerber files
+*.ogv
+*.drl
+*.gbr
+*-gerber/
+*-Gerber/
